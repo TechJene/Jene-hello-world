@@ -15,3 +15,5 @@ Hope it can give you a hand.
   git checkout -b copy
 
 3. add the step into README.
+
+4. 使用 git push -u origin copy
