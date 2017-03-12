@@ -17,3 +17,5 @@ Hope it can give you a hand.
 3. add the step into README.
 
 4. 使用 git push -u origin copy
+
+5. 测试是否还会发生 conflict
