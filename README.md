@@ -8,6 +8,7 @@ I want to share this tutorial with you.
 Hope it can give you a hand.
 
 练习：
+
 1. clone repository
   git clone   https://github.com/TechJene/Jene-hello-world.git
 
@@ -16,4 +17,8 @@ Hope it can give you a hand.
 
 3. add the step into README.
 
+
+
 4. 使用 git push -u origin copy
+
+
